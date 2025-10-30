@@ -1,4 +1,4 @@
-import {BrowserRouter as Router, Navigate, Route, Routes} from 'react-router-dom';
+import {HashRouter as Router, Navigate, Route, Routes} from 'react-router-dom';
 import SideNav from './components/layouts/SideNav';
 import Home from './pages/Home';
 import Profile from './pages/Profile/Profile';
@@ -36,9 +36,7 @@ const App: React.FC = () => {
                                 </ProtectedRoute>
                             }/>
                             <Route path="/catalog" element={
-                                
-                                    <Catalog/>
-                               
+                                <Catalog/>
                             }/>
                             <Route path="/files" element={
                                 <ProtectedRoute>

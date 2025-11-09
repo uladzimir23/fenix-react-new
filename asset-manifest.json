@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fenix-react/static/css/main.bfece3cf.css",
+    "main.js": "/fenix-react/static/js/main.e78b25a0.js",
+    "static/js/453.63317d3a.chunk.js": "/fenix-react/static/js/453.63317d3a.chunk.js",
+    "index.html": "/fenix-react/index.html",
+    "main.bfece3cf.css.map": "/fenix-react/static/css/main.bfece3cf.css.map",
+    "main.e78b25a0.js.map": "/fenix-react/static/js/main.e78b25a0.js.map",
+    "453.63317d3a.chunk.js.map": "/fenix-react/static/js/453.63317d3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfece3cf.css",
+    "static/js/main.e78b25a0.js"
+  ]
+}

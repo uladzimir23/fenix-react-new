@@ -38,6 +38,7 @@
 }
 /* Стили для контейнера с контентом */
 .results-content {
+  width: 100%;
   position: relative;
   flex: 1;
   max-height: calc(100vh - 160px);
